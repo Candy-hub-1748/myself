@@ -1,2 +1,2 @@
 # myself aashish kumar
-i am student 
+i am student of bca 
